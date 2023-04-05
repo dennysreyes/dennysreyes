@@ -3,18 +3,22 @@
 My name is Dennys Reyes, I'm a Frontend Developer and Full Stack Developer student, passionate about web development and technology. I'm constantly studying, learning and experimenting with technologies and tools to find the best solutions to the problems at hand.
 
 
-🌱 I’m currently learning NodeJS.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dennys.rg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennysgreyes) 
 
-<!--
-**dennysreyes/dennysreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
